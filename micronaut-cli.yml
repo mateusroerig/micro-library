@@ -3,4 +3,4 @@ defaultPackage: com.microlibrary
 testFramework: spock
 sourceLanguage: groovy
 buildTool: gradle
-features: [annotation-api, app-name, gradle, groovy, groovy-application, http-client, jackson-databind, logback, micronaut-build, netty-server, readme, shade, spock, yaml]
+features: [annotation-api, app-name, data, data-jpa, gradle, groovy, groovy-application, h2, http-client, jackson-databind, jdbc-hikari, logback, micronaut-build, netty-server, readme, shade, spock, yaml]
